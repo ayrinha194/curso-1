@@ -1,0 +1,19 @@
+body {
+    background-color: #1D4221;
+    color: white;
+    
+.saira-stencil-<uniquifier> {
+  font-family: "Saira Stencil", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 700px;
+  margin: 0;
+}
+}
+
+button {
+    background-color: #64A712;
+    color: white;
+    font-family: "Saira Stencil", sans-serif;
+}
