@@ -2,7 +2,7 @@ body {
     background-color: #1D4221;
     color: white;
     
-.saira-stencil- {
+.saira-stencil- }
   font-family: "Saira Stencil", sans-serif;
   display: flex;
   justify-content: center;
@@ -10,8 +10,10 @@ body {
   height: 700px;
   margin: 0;
 }
+.passo {
+    display: none;
 }
-
+.passo.ativo{
 button {
     background-color: #64A712;
     color: white;
